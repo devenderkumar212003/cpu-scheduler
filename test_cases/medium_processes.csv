@@ -1,0 +1,9 @@
+ID,ArrivalTime,BurstTime,Priority
+P1,0,6,3
+P2,2,4,1
+P3,4,8,4
+P4,6,2,2
+P5,8,10,5
+P6,10,3,6
+P7,12,5,7
+P8,14,7,8
